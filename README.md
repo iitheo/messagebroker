@@ -1,2 +1,2 @@
 # messagebroker
-Sending Messages Via Rabbitmq
+Go program showing how to send messages via Rabbitmq
